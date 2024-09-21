@@ -4,6 +4,9 @@
     - Brandon Herrin (A02336477)
     - Josh Weeks (A02304519)
 
+### Run Instructions
+Please run `Herrin_Brandon_HW2.py` for the entire assignment. If wanted, Parts 1 and 2 can be run using the Juypter Notebook `Herrin_Brandon_HW2.ipynb`. Running the Python script will generate graphs for each run showing how we came to our conclusions
+
 ### Problems:
 
 1. **Epsilon-Greedy Method:**
