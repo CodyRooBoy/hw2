@@ -47,6 +47,6 @@
         - Weighted exploration likely had an edge, but it was close. Weighted exploration is an engenious strategy. If there isn't enough information, more is explored until satisfied. 
 
 **Part 3**
-    - **Reflection**:
-        - Randomness helps convergance under dynamic conditions by giving more opportunities for epsilon-greedy and Thompson Sampling to change their selection and find other "bandits" that may be more ideal. The drawback of this is that the algorithms could fail to commit to an action and continue exploring.
-        - The dynamic adjustments is more adaptable than the standard Epsilon-Greedy algorithm. Shifts in the modified algorithm encourage exploration unlike the standard approach which explores with a fixed probability.
+- **Reflection**:
+    - Randomness helps convergance under dynamic conditions by giving more opportunities for epsilon-greedy and Thompson Sampling to change their selection and find other "bandits" that may be more ideal. The drawback of this is that the algorithms could fail to commit to an action and continue exploring.
+    - The dynamic adjustments is more adaptable than the standard Epsilon-Greedy algorithm. Shifts in the modified algorithm encourage exploration unlike the standard approach which explores with a fixed probability.
